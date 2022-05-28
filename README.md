@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Artur Pelo @arco75
-- 👀 I’m interested in: <programming> <technology> : {Java, SQL, C/CPP, JS, TypeScript, React, jQuery/Ajax, Assembler, Lua, Pascal, nodejs, apache, Linux, network LAN/WAN, Android, IoT, Microcontroller ARM and PIC} </technology></programming>.
+- 👀 I’m interested in: programming and technology : {Java, SQL, C/CPP, JS, TypeScript, React, jQuery/Ajax, Assembler, Lua, Pascal, nodejs, apache, Linux, network LAN/WAN, Android, IoT, Microcontroller ARM and PIC}.
 - 🌱 I’m currently learning REST
 - 💞️ I’m looking to collaborate on ...->I have not time.
 - 📫 How to reach me: only email pelo.artur@gmail.com
