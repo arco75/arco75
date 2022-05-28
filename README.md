@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Artur Pelo @arco75
+- 👀 I’m interested in Java, JS, TS, SQL, Assembler, 
+- 🌱 I’m currently learning REST
+- 💞️ I’m looking to collaborate on ...->I have not time.
+- 📫 How to reach me: only email pelo.artur@gmail.com
